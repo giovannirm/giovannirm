@@ -26,4 +26,6 @@ Soy un desarrollador de software con experiencia en programación backend y aná
 Ingeniería de Sistemas, Universidad Nacional Federico Villareal.
 # Idiomas
 * Español (nativo)
-* Inglés (avanzado)
+* Inglés (básico)
+# Portafolio
+https://giovannirm.github.io/portafolio/
