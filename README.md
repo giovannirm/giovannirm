@@ -7,6 +7,7 @@ Soy un desarrollador de software con experiencia en programación backend y aná
 * Familiaridad con los frameworks de desarrollo web como Django, Flask, Angular, Express.js, Laravel y el entorno de ejecución Node.js
 * Conocimientos en el diseño y manejo de bases de datos relacionales y no relacionales como MySQL, SQL Server, Informix, PostgreSQL y MongoDB.
 * Conocimientos en la elaboración de maquetado HTML y diseño con CSS y SASS.
+* Conocimientos básicos de despliegues en Google Cloud y AWS
 * Experiencia en el uso de herramientas de control de versiones como Git.
 # Educación
 Ingeniería de Sistemas, Universidad Nacional Federico Villareal.
