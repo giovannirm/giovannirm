@@ -2,7 +2,7 @@
 Soy un desarrollador de software con experiencia en programación backend y análisis de datos. He trabajado en varios proyectos que involucran la creación de aplicaciones web, manejo de bases de datos y la construcción de modelos de aprendizaje automático. Me apasiona la programación y la ciencia de datos, y siempre estoy buscando formas de mejorar mis habilidades y conocimientos.
 
 # Habilidades técnicas
-## Programación backend
+## Programación FullStack
 * Experiencia en el desarrollo de aplicaciones web utilizando lenguajes de programación como Python, Typescript, Javascript y PHP.
 * Familiaridad con los frameworks de desarrollo web como Django, Flask, Angular, Express.js, Laravel y el entorno de ejecución Node.js
 * Conocimientos en el diseño y manejo de bases de datos relacionales y no relacionales como MySQL, SQL Server, Informix, PostgreSQL y MongoDB.
@@ -12,6 +12,6 @@ Soy un desarrollador de software con experiencia en programación backend y aná
 Ingeniería de Sistemas, Universidad Nacional Federico Villareal.
 # Idiomas
 * Español (nativo)
-* Inglés (básico)
+* Inglés (básico intermedio)
 # Portafolio
 https://giovannirm.github.io/portafolio/
