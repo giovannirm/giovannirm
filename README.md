@@ -3,9 +3,10 @@ Soy un desarrollador de software con experiencia en programación backend y aná
 
 # Habilidades técnicas
 ## Programación backend
-* Experiencia en el desarrollo de aplicaciones web utilizando lenguajes de programación como Python, PHP y Java.
-* Familiaridad con los frameworks de desarrollo web como Django, Flask, Laravel y Spring.
-* Conocimientos en el diseño y manejo de bases de datos relacionales y no relacionales como MySQL, PostgreSQL y MongoDB.
+* Experiencia en el desarrollo de aplicaciones web utilizando lenguajes de programación como Python, Typescript, Javascript y PHP.
+* Familiaridad con los frameworks de desarrollo web como Django, Flask, Angular, Express.js, Laravel y el entorno de ejecución Node.js
+* Conocimientos en el diseño y manejo de bases de datos relacionales y no relacionales como MySQL, SQL Server, Informix, PostgreSQL y MongoDB.
+* Conocimientos en la elaboración de maquetado HTML y diseño con CSS y SASS.
 * Experiencia en el uso de herramientas de control de versiones como Git.
 # Educación
 Ingeniería de Sistemas, Universidad Nacional Federico Villareal.
