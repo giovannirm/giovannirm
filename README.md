@@ -96,7 +96,3 @@ Soy un Ingeniero de Sistemas con más de 4 años de experiencia en desarrollo Fu
 * 💼 **LinkedIn**: [linkedin.com/in/giovanni-rojas-morales](https://www.linkedin.com/in/giovanni-rojas-morales/)
 * 🐙 **GitHub**: [github.com/giovannirm](https://github.com/giovannirm)
 * 📍 **Ubicación**: Lince, Lima, Perú
-
----
-
-*Desarrollado con ❤️ usando Angular 18.2.21 y Arquitectura Hexagonal*
